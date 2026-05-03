@@ -29,5 +29,5 @@ The project follows a hybrid workflow:
 - Overall, the pattern suggests that during periods of stress, capital doesn’t just move toward “safe” assets—it often shifts toward liquidity, with investors prioritizing flexibility over traditional safety.
 
 # Visualizations
-![Normalized Market Divergence Graph](visuals/Market Divergence Graph.png)
+![Normalized Market Divergence Graph](visuals/Market_Divergence_Graph.png)
 
