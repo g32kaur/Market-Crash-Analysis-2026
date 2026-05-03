@@ -27,3 +27,7 @@ The project follows a hybrid workflow:
 - The sharp rise in oil prices seems to have created pressure on liquidity, as higher energy costs forced investors to free up cash. This likely contributed to selling in gold, despite its usual role as a safe-haven asset.
 
 - Overall, the pattern suggests that during periods of stress, capital doesn’t just move toward “safe” assets—it often shifts toward liquidity, with investors prioritizing flexibility over traditional safety.
+
+# Visualizations
+![Normalized Market Divergence Graph](visuals/Market Divergence Graph.png)
+
