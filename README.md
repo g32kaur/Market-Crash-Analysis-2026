@@ -31,3 +31,5 @@ The project follows a hybrid workflow:
 # Visualizations
 ![Normalized Market Divergence Graph](visuals/Market_Divergence_Graph.png)
 
+Crude oil surged during the conflict while others remained relatively stable, highlighting a clear divergence in asset behavior under geopolitical stress.
+
